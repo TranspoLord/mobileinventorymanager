@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">InventoryApplication</string>
+    <string name="please_enter_login">Please Enter Login</string>
+    <string name="notificationtext">notificationText</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="exit">Exit</string>
+    <string name="search">Search</string>
+    <string name="browse">Browse</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="productname">productName</string>
+    <string name="sign_off">Sign Off</string>
+    <string name="back">Back</string>
+    <string name="itemselected">itemSelected</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="num_items">Num Items</string>
+    <string name="product_code">Product Code</string>
+    <string name="description">Description</string>
+    <string name="notification">Notification</string>
+    <string name="debug_screen">Debug Screen</string>
+    <string name="fill_product_database">Fill Product Database</string>
+    <string name="empty_product_database">Empty Product Database</string>
+    <string name="channel_name">low inventory</string>
+    <string name="channel_description">low inventory for a product</string>
+    <string-array name="browse_filters">
+        <item>Alphabetically - Ascending</item>
+        <item>Alphabetically - Descending</item>
+        <item>Product Code - 0-9999</item>
+        <item>Product Code – 9999-0</item>
+        <item>Date added - Newest</item>
+        <item>Date added - Oldest</item>
+    </string-array>
+    <string-array name="search_where">
+        <item>Name</item>
+        <item>Code</item>
+    </string-array>
+</resources>
